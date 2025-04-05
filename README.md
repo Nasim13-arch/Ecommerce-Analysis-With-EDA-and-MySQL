@@ -1,7 +1,7 @@
 # Ecommerce Analysis With EDA and MySQL
 
 # Overview
-This project analyzes Brazilian e-commerce data to uncover trends in monthly revenue growth, order volume, and product performance. The dataset is sourced from Kaggle: Brazilian E-Commerce Dataset and processed using MySQL before analysis in Python.
+This project analyzes Brazilian e-commerce data to uncover trends in monthly revenue growth, order volume, and product performance. The dataset is sourced from [Kaggle: Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and processed using MySQL before analysis in Python.
 
 # Files in the Project
     1. Revenue Trends.csv
